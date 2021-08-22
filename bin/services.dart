@@ -2,7 +2,7 @@ import 'user.dart';
 
 class Services {
   Future<User> getUserData() async {
-    // Asuming that we already had the data
+    // Asuming that we already have the data
     return User();
   }
 }
